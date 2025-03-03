@@ -24,7 +24,7 @@ ExchangeRates is a .NET 8 application that provides exchange rate information. I
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/.../ExchangeRates.git
+git clone https://github.com/hugocosta1994/ExchangeRates.git
 cd ExchangeRates
 ```
 
