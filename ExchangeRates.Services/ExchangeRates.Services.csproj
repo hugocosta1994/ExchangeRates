@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExchangeRates.AlphaVantage\ExchangeRates.AlphaVantage.csproj" />
+    <ProjectReference Include="..\ExchangeRates.Data\ExchangeRates.Data.csproj" />
+  </ItemGroup>
+
+</Project>
